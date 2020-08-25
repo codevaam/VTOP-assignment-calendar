@@ -1,7 +1,7 @@
 # VTOP-assignment-calendar
 Integrate assignments with google calendar
 
-![alt text](https://github.com/codevaam/VIT-assignment-callender/blob/master/images/icon32.png?raw=true) VTOP CALENDAR INTEGRATION
+![alt text](https://raw.githubusercontent.com/codevaam/VTOP-assignment-calendar/master/images/icon32.png) VTOP CALENDAR INTEGRATION
 
 ## Steps to add all your assignments to the calendar
 
