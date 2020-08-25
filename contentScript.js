@@ -17,7 +17,7 @@ chrome.storage.sync.get(['csvRows'], function(res) {
         res.csvRows.push([assignment, deadline]);
     }
     chrome.storage.sync.set({csvRows: res.csvRows}, function() {
-        console.log("updated")
+        alert("Subject added. Add next subject or download the csv if you're done")
     })
 })
 
